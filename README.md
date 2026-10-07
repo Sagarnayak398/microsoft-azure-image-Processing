@@ -38,8 +38,9 @@ The images are uploaded to an Azure Blob Storage container. A Python program dow
 8. Click **Review** and then **Create**.
 9. After deployment is completed, click **Go to resource**.
 
-![Azure Storage Account](<img width="1600" height="759" alt="WhatsApp Image 2026-10-06 at 10 38 53 AM" src="https://github.com/user-attachments/assets/c493eef6-c065-469d-86f6-45b8b088958d" />
-)
+<img width="1600" height="759" alt="WhatsApp Image 2026-10-06 at 10 38 53 AM" src="https://github.com/user-attachments/assets/dd522db2-92c4-418c-a4e8-e9210001cf54" />
+
+
 
 ![Azure storage acc](<img width="1600" height="771" alt="WhatsApp Image 2026-10-06 at 10 38 51 AM" src="https://github.com/user-attachments/assets/2311769a-a2a4-4560-9ecc-5e3534d1a761" />
 )
