@@ -38,6 +38,11 @@ The images are uploaded to an Azure Blob Storage container. A Python program dow
 8. Click **Review** and then **Create**.
 9. After deployment is completed, click **Go to resource**.
 
+![Azure Storage Account](<img width="1600" height="759" alt="WhatsApp Image 2026-10-06 at 10 38 53 AM" src="https://github.com/user-attachments/assets/c493eef6-c065-469d-86f6-45b8b088958d" />
+)
+
+![Azure storage acc](<img width="1600" height="771" alt="WhatsApp Image 2026-10-06 at 10 38 51 AM" src="https://github.com/user-attachments/assets/2311769a-a2a4-4560-9ecc-5e3534d1a761" />
+)
 ---
 
 ### Step 3: Create a Blob Container
@@ -54,6 +59,8 @@ images
 5. Configure the required access level.
 6. Click **Create**.
 
+![Azure Storage Account](<img width="1600" height="757" alt="WhatsApp Image 2026-10-06 at 10 38 49 AM" src="https://github.com/user-attachments/assets/54a4bcf5-316e-4b81-998d-f5385ac0287b" />
+)
 ---
 
 ### Step 4: Upload Images
@@ -64,6 +71,8 @@ images
 4. Click **Upload**.
 5. Verify that the images are displayed in the container.
 
+![Uploaded Images](<img width="1600" height="756" alt="WhatsApp Image 2026-10-06 at 10 38 48 AM (1)" src="https://github.com/user-attachments/assets/316e838d-aba1-4ca4-b456-e327fa4121b1" />
+)
 ---
 
 ### Step 5: Get the Connection String
@@ -141,7 +150,8 @@ Processed and uploaded: processed_image2.jpg
 All images processed successfully.
 ```
 
-
+![Program Execution](<img width="943" height="275" alt="WhatsApp Image 2026-10-06 at 10 38 47 AM" src="https://github.com/user-attachments/assets/d4e93bcb-f0b7-4914-b942-5c1150bf73b8" />
+)
 
 ---
 
@@ -163,6 +173,8 @@ processed_image2.jpg
 
 The processed images can be opened or downloaded to verify that they have been resized and converted to grayscale.
 
+![Processed Images in Azure](<img width="1600" height="728" alt="WhatsApp Image 2026-10-06 at 10 38 54 AM" src="https://github.com/user-attachments/assets/8b1a26f6-6774-4e10-b233-87aa7230d654" />
+)
 ---
 
 ## Result
